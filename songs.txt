@@ -1,0 +1,115 @@
+Daylight,Taylor Swift,January 7, 2020
+Love Story,Taylor Swift,April 13, 2017
+Gumaan,Young Stunners,September 18, 2020
+Afsanay,Young Stunners,March 19, 2021
+No Cap,KR$NA,November 10, 2021
+Blowing Up,KR$NA,March 10, 2022
+Kessariya,Arjit Singh,October 21, 2022
+Channa Mereya,Arjit Singh,December 17, 2019
+Lose Yourself,Eminem,October 28, 2002
+Stan (feat. Dido),Eminem,November 21, 2000
+See You Again (feat. Wiz Khalifa),Charlie Puth,March 10, 2015
+Attention,Charlie Puth,April 21, 2017
+Faded,Alan Walker,December 4, 2015
+Alone,Alan Walker,December 2, 2016
+
+Bad Guy,Alan Walker,01/24/2008
+Bad Liar,Arijit Singh,02/13/2000
+Believer,Imagine Dragons,05/08/2015
+Believer,Selena Gomez,09/07/2012
+Butter,Shawn Mendes,04/16/2016
+Call Out My Name,Camila Cabello,03/22/2001
+Can’t Feel My Face,KR$NA,10/11/2016
+Can’t Feel My Face,Sia,10/16/2019
+Centuries,Charlie Puth,07/03/2006
+Centuries,Ed Sheeran,05/04/2001
+Closer,Drake,07/28/2009
+Cold Heart,Arijit Singh,02/27/2023
+Cold Heart,KR$NA,04/27/2005
+Cold Water,Selena Gomez,11/17/2005
+Dakiti,Halsey,03/17/2016
+Deja Vu,Sia,06/04/2021
+Demons,Post Malone,09/16/2011
+Demons,The Weeknd,11/15/2008
+Drivers License,Alan Walker,03/23/2012
+Dynamite,Sia,11/11/2002
+Easy On Me,Justin Bieber,08/18/2000
+Friends,Imagine Dragons,12/24/2016
+Friends,Olivia Rodrigo,03/25/2008
+Friends,Zayn,02/28/2005
+Galway Girl,Arijit Singh,01/14/2016
+Galway Girl,Shawn Mendes,01/10/2011
+Ghost,Post Malone,03/06/2021
+Ghost,Shawn Mendes,04/06/2006
+Happier Than Ever,Young Stunners,01/06/2001
+Heartless,Ariana Grande,08/04/2010
+Heat Waves,Dua Lipa,05/13/2007
+Holy,Arijit Singh,12/05/2008
+I Don’t Care,Travis Scott,09/11/2003
+In My Blood,Young Stunners,09/28/2013
+Industry Baby,Halsey,10/24/2022
+Industry Baby,Selena Gomez,05/27/2001
+It Ain’t Me,Charlie Puth,11/12/2016
+It Ain’t Me,Halsey,11/14/2022
+It Ain’t Me,Travis Scott,09/24/2022
+Lean On,Dua Lipa,03/13/2016
+Let Me Love You,The Weeknd,03/24/2019
+Levels,Imagine Dragons,06/15/2012
+Levitating,Charlie Puth,09/24/2021
+Lonely,Young Stunners,01/19/2001
+Love Yourself,Travis Scott,12/08/2018
+Mercy,Arijit Singh,07/21/2017
+Mercy,Camila Cabello,09/22/2007
+My Songs Know,Taylor Swift,01/01/2020
+No Brainer,Camila Cabello,07/26/2011
+Ocean Eyes,Halsey,12/11/2023
+Ocean Eyes,Olivia Rodrigo,11/06/2013
+Ocean Eyes,Sia,08/05/2023
+Paris,Ariana Grande,03/02/2017
+Photograph,Justin Bieber,10/28/2004
+Photograph,Shawn Mendes,12/22/2023
+Photograph,The Weeknd,08/08/2000
+Pray For Me,Taylor Swift,08/28/2020
+Radioactive,Justin Bieber,06/15/2023
+Radioactive,Selena Gomez,03/24/2023
+Reminder,Billie Eilish,09/15/2012
+Roses,Shawn Mendes,05/16/2009
+Selfish,Ed Sheeran,04/05/2008
+Selfish,Ed Sheeran,05/11/2001
+Shape of You,Taylor Swift,10/19/2007
+Shivers,Dua Lipa,09/16/2002
+Shivers,Sia,10/05/2007
+Sicko Mode,Ariana Grande,07/09/2012
+Someone You Loved,Ariana Grande,09/16/2002
+Someone You Loved,Imagine Dragons,10/19/2000
+Sorry,Drake,07/07/2013
+Sorry,Sia,07/19/2005
+Starboy,Arijit Singh,03/09/2004
+Stitches,Travis Scott,05/22/2014
+Taki Taki,Post Malone,09/10/2012
+Talking to the Moon,Taylor Swift,09/09/2001
+The Box,Katy Perry,05/10/2020
+The Box,Katy Perry,10/18/2023
+There's Nothing Holdin’ Me Back,Drake,12/04/2014
+There's Nothing Holdin’ Me Back,Marshmello,06/26/2015
+There's Nothing Holdin’ Me Back,Young Stunners,10/28/2017
+Therefore I Am,Arijit Singh,02/02/2022
+Thunder,Olivia Rodrigo,07/18/2015
+Treat You Better,Marshmello,05/08/2008
+Unstoppable,Dua Lipa,07/09/2012
+Unstoppable,Halsey,04/04/2013
+Unstoppable,Zayn,08/23/2006
+Uptown Funk,Post Malone,12/03/2019
+Wake Me Up,Ariana Grande,03/15/2015
+Wasted Times,Arijit Singh,06/25/2005
+Wasted Times,Olivia Rodrigo,06/27/2012
+Wasted Times,Olivia Rodrigo,11/02/2017
+Wasted Times,Taylor Swift,05/13/2014
+Wasted Times,The Weeknd,06/26/2005
+Watermelon Sugar,Sia,12/09/2009
+What Do You Mean?,Marshmello,11/24/2023
+What Do You Mean?,Olivia Rodrigo,09/25/2022
+Wolves,Alan Walker,08/14/2004
+Wow.,Drake,10/15/2004
+Yummy,Sia,01/12/2011
+Yummy,Taylor Swift,11/27/2000
